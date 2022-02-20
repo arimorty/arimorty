@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimorty)](https://github.com/arimorty/arimorty)
+[![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimorty&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ari's+Stats)](https://github.com/arimorty/arimorty)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arimorty&layout=compact)](https://github.com/arimorty/arimorty)
