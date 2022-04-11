@@ -1,11 +1,5 @@
 
 
-**Interests**
-- 📱 Flutter
-- 📱 Android
-- 🎤 Voice apps
-<br />
-
 <!--
 **arimorty/arimorty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
